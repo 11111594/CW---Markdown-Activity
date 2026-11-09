@@ -12,7 +12,8 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
 ## Learning metrics
-Today is day $d_1$, I have completed $c^2$ tasks, $d_3$ tasks remain.
+Today is day $d_1$, I have completed $c^2$ tasks, $c^3$ tasks remain.
 $$
 p = \frac{c}{t} \times 100
 $$
+p represents a percentage, c is the numerator of the fraction, and t is the denominator of a fraction.
