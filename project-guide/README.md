@@ -67,7 +67,7 @@ git pull https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
 ```
 
 ## Support
-You can ask for help in the [issues](../ISSUES) tab, include the lesson number, task, and error message.
+You can ask for help in the [issues](https://github.com) tab, include the lesson number, task, and error message.
 
 ## License
 
