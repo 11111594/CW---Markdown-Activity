@@ -59,3 +59,13 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | --- | --- |
 | [Learner](../day-1.md) | Daily plans, code samples, and learning metrics |
 | [Project README](README.md) | Setup and usage instructions |
+
+## Contributing
+You can create a new branch here and run git pull to get the updates on your end.
+
+## Support
+Ask for help in the [issues](../ISSUES) tab, include the lesson number, task, and error message.
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
