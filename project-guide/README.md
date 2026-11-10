@@ -66,8 +66,8 @@ On GitHub, the same headings appear at different sizes and task markers become c
 ## Contributing
 You can create a new branch here and run git pull to get the updates on your end. The course's Actions checks evaluate submissions; there is no application test suite to run here.
 ```bash
-git branch ----0-
 git pull https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+cd 1111111
 ```
 
 ## Support
