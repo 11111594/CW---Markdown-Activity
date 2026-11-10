@@ -61,10 +61,13 @@ On GitHub, the same headings appear at different sizes and task markers become c
 | [Project README](README.md) | Setup and usage instructions |
 
 ## Contributing
-You can create a new branch here and run git pull to get the updates on your end.
+You can create a new branch here and run git pull to get the updates on your end. The course's Actions checks evaluate submissions; there is no application test suite to run here.
+```bash
+git pull https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+```
 
 ## Support
-Ask for help in the [issues](../ISSUES) tab, include the lesson number, task, and error message.
+You can ask for help in the [issues](../ISSUES) tab, include the lesson number, task, and error message.
 
 ## License
 
