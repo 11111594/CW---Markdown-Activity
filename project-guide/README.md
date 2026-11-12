@@ -29,7 +29,7 @@ Use a web browser to read the journal on GitHub. For a local copy, install Git a
 Run these commands in a terminal to download this repository, then enter its folder:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/skills-communicate-using-markdown.git
+git clone https://github.com/11111594/skills-communicate-using-markdown.git
 cd skills-communicate-using-markdown
 ```
 
@@ -76,4 +76,11 @@ This project is distributed under the [MIT License](../LICENSE). Read the licens
 ## Troubleshooting
 Problem: cat: day-1.md: No such file or directory.
 Solution: Enter the cloned repository folder and check to see if the file exists there.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
 
