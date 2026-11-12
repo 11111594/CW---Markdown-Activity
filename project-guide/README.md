@@ -72,3 +72,8 @@ You can ask for help in the [issues](https://github.com) tab, include the lesson
 ## License
 
 This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Troubleshooting
+Problem: cat: day-1.md: No such file or directory.
+Solution: Enter the cloned repository folder and check to see if the file exists there.
+
