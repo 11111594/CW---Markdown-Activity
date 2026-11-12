@@ -1,0 +1,86 @@
+# Markdown Learner
+
+## Overview
+
+A learning helper for students trying to learn markdowns to communicate in github.
+
+## Features
+
+- Organize daily learning objectives with headings.
+- Track practice tasks (completed or uncompleted) with checkboxes.
+- Keep track of progress using mathematical expressions.
+
+## Contents
+
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Support](#support)
+- [License](#license)
+
+## Prerequisites
+
+Use a web browser to read the journal on GitHub. For a local copy, install Git and a text editor. A GitHub account with repository access is required to contribute.
+
+## Installation
+
+Run these commands in a terminal to download this repository, then enter its folder:
+
+```bash
+git clone https://github.com/11111594/skills-communicate-using-markdown.git
+cd skills-communicate-using-markdown
+```
+
+Open `day-1.md` in your editor to confirm the app has been installed. No build or dependency installation is required.
+
+## Usage
+From the repository folder, display the app in a terminal with this command. On Windows PowerShell, use `Get-Content day-1.md` instead.
+
+```bash
+cat day-1.md
+```
+
+For formatted reading, open [the helper](../day-1.md) on GitHub and select Preview when editing. Check or uncheck tasks by editing their Markdown and committing your changes.
+
+## Expected output
+
+The terminal displays the source Markdown. Your title may differ from this shortened example:
+
+```text
+# Daily Learning
+
+## Morning Planning
+```
+
+On GitHub, the same headings appear at different sizes and task markers become checkboxes.
+
+## Project files
+
+| File | Purpose |
+| --- | --- |
+| [Learner](../day-1.md) | Daily plans, code samples, and learning metrics |
+| [Project README](README.md) | Setup and usage instructions |
+
+## Contributing
+You can create a new branch here, edit there, commit, and then pull requests from other branches
+
+## Support
+You can ask for help in the [issues](https://github.com) tab, include the lesson number, task, and error message.
+
+## License
+
+This project is distributed under the [MIT License](../LICENSE). Read the license for its permissions and conditions.
+
+## Troubleshooting
+Problem: cat: day-1.md: No such file or directory.
+Solution: Enter the cloned repository folder and check to see if the file exists there.
+
+## Review checklist
+
+- [x] Confirmed the purpose, audience, and feature descriptions are accurate.
+- [x] Followed setup and usage instructions and compared the result.
+- [x] Tested Contents and file links and checked image alternative text.
+- [x] Verified contribution, support, and license information.
+
